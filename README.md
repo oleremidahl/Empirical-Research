@@ -1,4 +1,4 @@
-README: Evaluation of Pre-Trained Models for Sports Outcome Prediction
+# Evaluation of Pre-Trained Models for Sports Outcome Prediction
 
 ## Project Overview
 This project evaluates the performance of pre-trained machine learning models for predicting sports match outcomes, with a focus on football (soccer). The goal is to determine which model (e.g., Logistic Regression, Random Forest, XGBoost, LightGBM, CatBoost) performs best in terms of predictive accuracy and reliability. Additionally, the project investigates the impact of including external variables, such as weather data, on model performance.
